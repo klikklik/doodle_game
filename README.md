@@ -1,8 +1,9 @@
 # doodle_game
 
+![](https://github.com/klikklik/doodle_game/blob/main/doodlegif.gif)
 
-
-
+to hop on and play just
+ `git clone https://github.com/klikklik/doodle_game_exe.git`
 
 
 ## Manual build steps using cmake
