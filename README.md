@@ -5,15 +5,16 @@
 
 
 
-### Manual build steps using cmake
+## Manual build steps using cmake
 
-#### Requirements
 
 ##### Must Have (dependencies)
 - C++ compiler
 - cmake
 - mingw added to PATH
 
+  
+#### Building
 - `git clone https://github.com/klikklik/doodle_game.git`
 - Create a directory for cmake , e.g. - `mkdir build`
 - `cd build`
