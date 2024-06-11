@@ -1,4 +1,4 @@
-# doodle_game
+# Doodle Game recreated
 
 ![](https://github.com/klikklik/doodle_game/blob/main/doodlegif.gif)
 
